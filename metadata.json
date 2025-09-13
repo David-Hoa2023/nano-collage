@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NANO COLLAGE",
+  "description": "A minimalistic application to create image collages. Drag, drop, resize, and reposition images on a canvas. Use Gemini to generate a new image by merging all elements with a text prompt.",
+  "requestFramePermissions": []
+}
